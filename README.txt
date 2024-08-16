@@ -1,4 +1,4 @@
-# AUTO ZHOU DEVELOPMENT
+# CI/CD Tools and Practices Final Project Template
 
 ## USAGE FROM
 Verti by HTML5 UP
